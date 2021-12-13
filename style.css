@@ -1,0 +1,44 @@
+body{
+    background-image: url(./images/backgorund.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-color: black;
+    
+}
+ 
+
+#insta{
+    list-style-image: url(./images/Insta.png);
+
+    margin-left: 20px;
+    padding: 10px;
+}
+
+#twitter{
+    list-style-image: url(./images/Twitter.png);
+    margin-left: 20px;
+    padding: 10px;
+}
+
+#youtube{
+    list-style-image: url(./images/Youtube.png);
+    margin-left: 20px;
+    padding: 10px;
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    margin-left: 20px;
+
+}
+
+#fonte{
+    font-family: 'Roboto Slab', serif;
+    font-size: 21px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
